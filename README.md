@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Junghyun+👋;Welcome+to+my+Github+🤗)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=7B7B7B&background=FFFFFF00&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hello%2C+I'm+Junghyun%F0%9F%91%8B;Welcome+to+my+Github%F0%9F%98%8A)](https://git.io/typing-svg)
 
   <div>
     
@@ -10,7 +10,8 @@
   <img src="https://raw.githubusercontent.com/junghyunl/github-stats-transparent/output/generated/languages.svg" />
     
   </div>
-
+  <br>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnsk1256)](https://solved.ac/fnsk1256/)
 
 </div>
