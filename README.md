@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=94b9f3&height=200&section=header&text=Junghyun's%20GitHub&fontSize=65&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=94b9f3&height=200&section=header&text=Junghyun's%20GitHub&fontSize=65&animation=blink)
 
 <div align="center">
 
