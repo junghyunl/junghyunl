@@ -6,10 +6,12 @@
 
   <div>
     
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnsk1256)](https://solved.ac/fnsk1256/)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyunl&layout=compact)](https://github.com/junghyunl/github-readme-stats)
+  <img src="https://raw.githubusercontent.com/junghyunl/github-stats-transparent/output/generated/overview.svg" width="49.2%" />
+  <img src="https://raw.githubusercontent.com/junghyunl/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
     
   </div>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnsk1256)](https://solved.ac/fnsk1256/)
 
 </div>
 
