@@ -6,6 +6,10 @@
 
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnsk1256)](https://solved.ac/fnsk1256/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyunl&layout=compact)](https://github.com/junghyunl/github-readme-stats)
+
 <br>
 <!--
 ![Junghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyunl&theme=github_dark_dimmed&show_icons=true)
@@ -34,20 +38,22 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 -->
+
+<!--
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black"/></a>&nbsp
-  <!--
   <br>
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3"/></a>&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726"/></a>&nbsp
-  -->
 </p>
 
 <br>
+-->
 
+  
 <h3 align="center">📫 Contact 📫</h3>
 <p align="center">
   <a href="mailto:fnsk1256@gmail.com">
