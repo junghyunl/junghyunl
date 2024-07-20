@@ -2,8 +2,6 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Junghyun+👋;Welcome+to+my+Github+🤗)](https://git.io/typing-svg)
 
-  [![junghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyunl&hide=stars,contribs&count_private=true)](https://github.com/junghyunl/github-readme-stats)
-
 </div>
 
 <br>
