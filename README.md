@@ -28,25 +28,25 @@
 -->
 <h3 align="center">🛠 Tools 🛠</h3>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" /></a>&nbsp
 
   <br>
 
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" /></a>&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726" /></a>&nbsp
 </p>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<p align="center">
   <a href="mailto:fnsk1256@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
   </a>
-</div>
+</p>
 
 <!--
 **junghyunl/junghyunl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
