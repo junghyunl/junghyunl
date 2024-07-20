@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Junghyun's%20GitHub&fontSize=70&animation=fadeIn)
+
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Junghyun+👋;Welcome+to+my+Github+🤗)](https://git.io/typing-svg)
