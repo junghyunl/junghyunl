@@ -1,8 +1,8 @@
 <p align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Junghyun👋;Welcome+to+my+Github🤗)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Junghyun👋;Welcome+to+my+Github🤗)](https://git.io/typing-svg)
 
-![Junghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyunl&theme=github_dark_dimmed&show_icons=true)
+  ![Junghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyunl&theme=github_dark_dimmed&show_icons=true)
 
 </p>
 
