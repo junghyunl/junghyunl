@@ -2,6 +2,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Junghyun+👋;Welcome+to+my+Github+🤗)](https://git.io/typing-svg)
 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunghyunl&count_bg=%237AB4E1&title_bg=%237C7C7C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 <br>
