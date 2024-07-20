@@ -37,9 +37,11 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black"/></a>&nbsp
+  <!--
   <br>
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3"/></a>&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726"/></a>&nbsp
+  -->
 </p>
 
 <br>
