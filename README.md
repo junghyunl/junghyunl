@@ -4,11 +4,11 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Junghyun+👋;Welcome+to+my+Github+🤗)](https://git.io/typing-svg)
 
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnsk1256)](https://solved.ac/fnsk1256/)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyunl&layout=compact)](https://github.com/junghyunl/github-readme-stats)
+
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fnsk1256)](https://solved.ac/fnsk1256/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junghyunl&layout=compact)](https://github.com/junghyunl/github-readme-stats)
 
 <br>
 <!--
