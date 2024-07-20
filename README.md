@@ -6,8 +6,8 @@
 
   <div>
     
-  <img src="https://raw.githubusercontent.com/junghyunl/github-stats-transparent/output/generated/overview.svg" width="49.2%" />
-  <img src="https://raw.githubusercontent.com/junghyunl/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+  <img src="https://raw.githubusercontent.com/junghyunl/github-stats-transparent/output/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/junghyunl/github-stats-transparent/output/generated/languages.svg" />
     
   </div>
 
